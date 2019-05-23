@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+<graph>
+<node id="0">
+<gender="M" />
+<selfAttrs>majsterkowanie, piłka nożna, książki, bilard, rysowanie, bieganie, religia, muzyka, gry na instrumecie, pieczenie</selfAttrs>
+<wantedAttrs>bieganie, podróże, spacery, muzyka, tenis, pieczenie, puzzle, samochody, taniec, góry</wantedAttrs>
+</node>
+<node id="1">
+<gender="M" />
+<selfAttrs>rower, bieganie, filmy, puzzle, malowanie, wspinaczka, uprawa roślin, majsterkowanie, pieczenie, programowanie</selfAttrs>
+<wantedAttrs>samochody, morze, gotowanie, jazda konna, warcaby, bilard, filozofia, literatura, paintball, majsterkowanie</wantedAttrs>
+</node>
+<node id="2">
+<gender="M" />
+<selfAttrs>podróże, wspinaczka, samochody, programowanie, taniec, krzyżówki, wędkarstwo, spacery, bilard, gotowanie</selfAttrs>
+<wantedAttrs>książki, gimnastyka, fotografia, bilard, puzzle, gry komputerowe, tenis, majsterkowanie, programowanie, filozofia</wantedAttrs>
+</node>
+<node id="3">
+<gender="M" />
+<selfAttrs>podróże, filozofia, bieganie, pływanie, malowanie, spacery, rower, tenis, religia, rysowanie</selfAttrs>
+<wantedAttrs>szachy, warcaby, gry komputerowe, filozofia, gimnastyka, sporty walki, literatura, krzyżówki, pływanie, języki obce</wantedAttrs>
+</node>
+<node id="4">
+<gender="M" />
+<selfAttrs>muzyka, taniec, gimnastyka, piłka nożna, wędkarstwo, rower, śpiew, strzelnica, kraje orientu, książki</selfAttrs>
+<wantedAttrs>warcaby, zielarstwo, pędzenie bimbru, rysowanie, sporty walki, śpiew, biwakowanie, muzyka, strzelnica, gry komputerowe</wantedAttrs>
+</node>
+<node id="5">
+<gender="M" />
+<selfAttrs>koszykówka, komiksy, zielarstwo, warcaby, rysowanie, podróże, literatura, fizyka, jazda konna, gry na instrumecie</selfAttrs>
+<wantedAttrs>biwakowanie, wędkarstwo, malowanie, manga i anime, muzyka, uprawa roślin, zielarstwo, gry na instrumecie, spacery, gotowanie</wantedAttrs>
+</node>
+<node id="6">
+<gender="M" />
+<selfAttrs>taniec, paintball, spacery, koszykówka, biwakowanie, podróże, pływanie, fotografia, rower, samochody</selfAttrs>
+<wantedAttrs>biwakowanie, wspinaczka, strzelnica, filmy, sporty walki, majsterkowanie, muzyka, astronomia, gimnastyka, samochody</wantedAttrs>
+</node>
+<node id="7">
+<gender="M" />
+<selfAttrs>manga i anime, spacery, gry komputerowe, taniec, paintball, muzyka, komiksy, filozofia, kraje orientu, biwakowanie</selfAttrs>
+<wantedAttrs>koszykówka, pędzenie bimbru, samochody, programowanie, fizyka, jazda konna, komiksy, języki obce, bieganie, piłka nożna</wantedAttrs>
+</node>
+<node id="8">
+<gender="M" />
+<selfAttrs>góry, astronomia, filmy, puzzle, komiksy, uprawa roślin, zielarstwo, śpiew, literatura, taniec</selfAttrs>
+<wantedAttrs>sporty walki, strzelnica, filmy, uprawa roślin, programowanie, religia, wspinaczka, pieczenie, rower, rysowanie</wantedAttrs>
+</node>
+<node id="9">
+<gender="M" />
+<selfAttrs>sporty walki, strzelnica, puzzle, spacery, filozofia, biwakowanie, podróże, majsterkowanie, pędzenie bimbru, malowanie</selfAttrs>
+<wantedAttrs>góry, książki, bilard, zielarstwo, gry komputerowe, pływanie, rysowanie, tenis, wspinaczka, paintball</wantedAttrs>
+</node>
+<node id="10">
+<gender="K" />
+<selfAttrs>majsterkowanie, fizyka, religia, koszykówka, fotografia, manga i anime, malowanie, gry komputerowe, pędzenie bimbru, pieczenie</selfAttrs>
+<wantedAttrs>książki, krzyżówki, religia, kraje orientu, filmy, spacery, pędzenie bimbru, programowanie, rysowanie, malowanie</wantedAttrs>
+</node>
+<node id="11">
+<gender="K" />
+<selfAttrs>warcaby, pędzenie bimbru, pieczenie, góry, gotowanie, jazda konna, bilard, rysowanie, puzzle, astronomia</selfAttrs>
+<wantedAttrs>rower, filozofia, rysowanie, jazda konna, samochody, fizyka, paintball, podróże, języki obce, bilard</wantedAttrs>
+</node>
+<node id="12">
+<gender="K" />
+<selfAttrs>samochody, astronomia, paintball, malowanie, rower, programowanie, sporty walki, filozofia, szachy, puzzle</selfAttrs>
+<wantedAttrs>majsterkowanie, kraje orientu, samochody, krzyżówki, fotografia, wędkarstwo, uprawa roślin, malowanie, warcaby, gotowanie</wantedAttrs>
+</node>
+<node id="13">
+<gender="K" />
+<selfAttrs>rower, strzelnica, bilard, taniec, góry, filmy, programowanie, śpiew, gry na instrumecie, muzyka</selfAttrs>
+<wantedAttrs>samochody, warcaby, podróże, pływanie, filmy, paintball, wędkarstwo, koszykówka, tenis, wspinaczka</wantedAttrs>
+</node>
+<node id="14">
+<gender="K" />
+<selfAttrs>malowanie, krzyżówki, taniec, rower, góry, wspinaczka, tenis, filmy, fizyka, religia</selfAttrs>
+<wantedAttrs>programowanie, spacery, szachy, malowanie, fotografia, taniec, podróże, strzelnica, piłka nożna, fizyka</wantedAttrs>
+</node>
+<node id="15">
+<gender="K" />
+<selfAttrs>filozofia, warcaby, wędkarstwo, języki obce, gimnastyka, rysowanie, samochody, pędzenie bimbru, taniec, manga i anime</selfAttrs>
+<wantedAttrs>astronomia, pływanie, szachy, malowanie, samochody, podróże, biwakowanie, spacery, warcaby, bieganie</wantedAttrs>
+</node>
+<node id="16">
+<gender="K" />
+<selfAttrs>paintball, programowanie, strzelnica, książki, koszykówka, gimnastyka, muzyka, gry na instrumecie, pędzenie bimbru, pływanie</selfAttrs>
+<wantedAttrs>języki obce, filmy, manga i anime, majsterkowanie, zielarstwo, pieczenie, rysowanie, astronomia, rower, warcaby</wantedAttrs>
+</node>
+<node id="17">
+<gender="K" />
+<selfAttrs>astronomia, majsterkowanie, kraje orientu, podróże, krzyżówki, jazda konna, filozofia, fizyka, malowanie, piłka nożna</selfAttrs>
+<wantedAttrs>piłka nożna, literatura, biwakowanie, taniec, rysowanie, samochody, fotografia, astronomia, języki obce, podróże</wantedAttrs>
+</node>
+<node id="18">
+<gender="K" />
+<selfAttrs>komiksy, manga i anime, bilard, malowanie, astronomia, rysowanie, puzzle, uprawa roślin, filozofia, pieczenie</selfAttrs>
+<wantedAttrs>rower, strzelnica, tenis, majsterkowanie, szachy, bilard, astronomia, sporty walki, fizyka, książki</wantedAttrs>
+</node>
+<node id="19">
+<gender="K" />
+<selfAttrs>religia, malowanie, majsterkowanie, gotowanie, filmy, rysowanie, wędkarstwo, paintball, pieczenie, gry komputerowe</selfAttrs>
+<wantedAttrs>rysowanie, gimnastyka, religia, strzelnica, kraje orientu, pływanie, wspinaczka, spacery, taniec, książki</wantedAttrs>
+</node>
