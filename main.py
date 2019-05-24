@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+
 import networkx as nx
 import random
 
@@ -7,8 +9,6 @@ G = nx.Graph()
 attrList = ['książki', 'fotografia', 'paintball', 'wspinaczka', 'strzelnica', 'tenis', 'warcaby', 'fizyka', 'literatura', 'komiksy', 'kraje orientu', 'gry komputerowe', 'gry na instrumecie', 'filmy', 'muzyka', 'spacery', 'śpiew', 'gotowanie', 'pieczenie', 'majsterkowanie', 'pędzenie bimbru', 'uprawa roślin', 'zielarstwo', 'bieganie', 'gimnastyka', 'jazda konna', 'rower', 'pływanie', 'taniec', 'sporty walki', 'wędkarstwo', 'malowanie', 'rysowanie', 'programowanie', 'bilard', 'szachy', 'języki obce', 'puzzle', 'krzyżówki', 'astronomia', 'piłka nożna', 'koszykówka', 'podróże', 'biwakowanie', 'góry', 'morze', 'samochody', 'manga i anime', 'religia', 'filozofia']
 
 print(len(attrList))
-#for item in attrList:
- #   print (item)
 numOfMen = 10
 numOfWomen = 10
 numOfNodes = numOfMen + numOfWomen
@@ -104,6 +104,7 @@ while(G.node[womenStartPoint]['gender']) != 'K':
     womenStartPoint += 1
 
 while (G.node[i]['gender']) == 'M':
+    hiScore = 0
     j = womenStartPoint
     matches = 0
     print("Mężczyzna: " + str(G.node[i]['id']))
@@ -113,11 +114,16 @@ while (G.node[i]['gender']) == 'M':
             print("M" + str(G.node[i]['id']) + " + K" + str(G.node[j]['id']))
             matches = (len(set(G.node[i]['selfAttrs']) & set(G.node[j]['wantedAttrs']))) + (len(set(G.node[i]['wantedAttrs']) & set(G.node[j]['selfAttrs'])))
             print("Dopasowanie: ", matches)
+            thisScore = matches
+            if thisScore >= hiScore:
+                hiScore = thisScore
+                bestCandidate = j
             G.add_edge(i, j, weight = matches)
         j += 1
+    print("Dla M" + str(i) + " najlepszą kandydatką jest K" + str(bestCandidate) + " z wynikiem: " + str(hiScore))
+    print("------------------------------------------------")
     i += 1
-
-print(str(G.edges(data=True)))
+    
 
 f = open("graph.xml","w+")
 f.write('<?xml version="1.0" encoding="ISO-8859-1"?>\n'
@@ -127,8 +133,7 @@ f.write('<?xml version="1.0" encoding="ISO-8859-1"?>\n'
 
 i = 0
 while i < G.number_of_nodes():
-    f.write('<node id="' + str(G.node[i]['id']) + '">\n')
-    f.write('<gender="' + str(G.node[i]['gender']) + '" />\n')
+    f.write('<node id="' + str(G.node[i]['id']) + '" gender="' + str(G.node[i]['gender']) + '" >\n')
     str1 = ', '.join(G.node[i]['selfAttrs'])
     f.write('<selfAttrs>' + str1 + '</selfAttrs>\n')
     str2 = ', '.join(G.node[i]['wantedAttrs'])
@@ -138,5 +143,9 @@ while i < G.number_of_nodes():
     i += 1
 
 i = 0
+while i < G.number_of_edges():
+    currList = list(G.edges(data=True))[i]
+    f.write('<edge id="' + str(i) + '" from="' + str(currList[0]) + '" to="' + str(currList[1]) + '" weight="' + str(currList[2]['weight']) + '" />\n')
+    i += 1
 
-print(str(G.edges()))
+f.write("</graph>\n</gxl>")

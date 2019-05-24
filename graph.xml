@@ -2,103 +2,185 @@
 <!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
 <gxl>
 <graph>
-<node id="0">
-<gender="M" />
-<selfAttrs>majsterkowanie, piÅ‚ka noÅ¼na, ksiÄ…Å¼ki, bilard, rysowanie, bieganie, religia, muzyka, gry na instrumecie, pieczenie</selfAttrs>
-<wantedAttrs>bieganie, podrÃ³Å¼e, spacery, muzyka, tenis, pieczenie, puzzle, samochody, taniec, gÃ³ry</wantedAttrs>
+<node id="0" gender="M" >
+<selfAttrs>biwakowanie, majsterkowanie, malowanie, jêzyki obce, jazda konna, pi³ka no¿na, warcaby, uprawa roœlin, podró¿e, komiksy</selfAttrs>
+<wantedAttrs>gry na instrumecie, komiksy, wspinaczka, pêdzenie bimbru, paintball, fizyka, jêzyki obce, zielarstwo, rysowanie, szachy</wantedAttrs>
 </node>
-<node id="1">
-<gender="M" />
-<selfAttrs>rower, bieganie, filmy, puzzle, malowanie, wspinaczka, uprawa roÅ›lin, majsterkowanie, pieczenie, programowanie</selfAttrs>
-<wantedAttrs>samochody, morze, gotowanie, jazda konna, warcaby, bilard, filozofia, literatura, paintball, majsterkowanie</wantedAttrs>
+<node id="1" gender="M" >
+<selfAttrs>puzzle, gry na instrumecie, tenis, morze, biwakowanie, wêdkarstwo, pi³ka no¿na, szachy, ksi¹¿ki, koszykówka</selfAttrs>
+<wantedAttrs>muzyka, gry na instrumecie, ksi¹¿ki, morze, pêdzenie bimbru, gotowanie, majsterkowanie, wspinaczka, religia, wêdkarstwo</wantedAttrs>
 </node>
-<node id="2">
-<gender="M" />
-<selfAttrs>podrÃ³Å¼e, wspinaczka, samochody, programowanie, taniec, krzyÅ¼Ã³wki, wÄ™dkarstwo, spacery, bilard, gotowanie</selfAttrs>
-<wantedAttrs>ksiÄ…Å¼ki, gimnastyka, fotografia, bilard, puzzle, gry komputerowe, tenis, majsterkowanie, programowanie, filozofia</wantedAttrs>
+<node id="2" gender="M" >
+<selfAttrs>uprawa roœlin, podró¿e, fotografia, filmy, komiksy, muzyka, jêzyki obce, religia, zielarstwo, fizyka</selfAttrs>
+<wantedAttrs>szachy, manga i anime, krzy¿ówki, œpiew, sporty walki, góry, astronomia, taniec, warcaby, bieganie</wantedAttrs>
 </node>
-<node id="3">
-<gender="M" />
-<selfAttrs>podrÃ³Å¼e, filozofia, bieganie, pÅ‚ywanie, malowanie, spacery, rower, tenis, religia, rysowanie</selfAttrs>
-<wantedAttrs>szachy, warcaby, gry komputerowe, filozofia, gimnastyka, sporty walki, literatura, krzyÅ¼Ã³wki, pÅ‚ywanie, jÄ™zyki obce</wantedAttrs>
+<node id="3" gender="M" >
+<selfAttrs>œpiew, warcaby, pieczenie, jazda konna, majsterkowanie, paintball, rysowanie, strzelnica, rower, taniec</selfAttrs>
+<wantedAttrs>majsterkowanie, pieczenie, bieganie, religia, taniec, bilard, rower, wêdkarstwo, zielarstwo, jêzyki obce</wantedAttrs>
 </node>
-<node id="4">
-<gender="M" />
-<selfAttrs>muzyka, taniec, gimnastyka, piÅ‚ka noÅ¼na, wÄ™dkarstwo, rower, Å›piew, strzelnica, kraje orientu, ksiÄ…Å¼ki</selfAttrs>
-<wantedAttrs>warcaby, zielarstwo, pÄ™dzenie bimbru, rysowanie, sporty walki, Å›piew, biwakowanie, muzyka, strzelnica, gry komputerowe</wantedAttrs>
+<node id="4" gender="M" >
+<selfAttrs>pieczenie, fotografia, jêzyki obce, astronomia, taniec, majsterkowanie, spacery, p³ywanie, komiksy, ksi¹¿ki</selfAttrs>
+<wantedAttrs>filozofia, koszykówka, morze, komiksy, pi³ka no¿na, podró¿e, samochody, religia, pêdzenie bimbru, szachy</wantedAttrs>
 </node>
-<node id="5">
-<gender="M" />
-<selfAttrs>koszykÃ³wka, komiksy, zielarstwo, warcaby, rysowanie, podrÃ³Å¼e, literatura, fizyka, jazda konna, gry na instrumecie</selfAttrs>
-<wantedAttrs>biwakowanie, wÄ™dkarstwo, malowanie, manga i anime, muzyka, uprawa roÅ›lin, zielarstwo, gry na instrumecie, spacery, gotowanie</wantedAttrs>
+<node id="5" gender="M" >
+<selfAttrs>podró¿e, pêdzenie bimbru, gry komputerowe, samochody, uprawa roœlin, jazda konna, filozofia, bilard, rysowanie, jêzyki obce</selfAttrs>
+<wantedAttrs>krzy¿ówki, ksi¹¿ki, filmy, programowanie, uprawa roœlin, fizyka, pi³ka no¿na, zielarstwo, gotowanie, rower</wantedAttrs>
 </node>
-<node id="6">
-<gender="M" />
-<selfAttrs>taniec, paintball, spacery, koszykÃ³wka, biwakowanie, podrÃ³Å¼e, pÅ‚ywanie, fotografia, rower, samochody</selfAttrs>
-<wantedAttrs>biwakowanie, wspinaczka, strzelnica, filmy, sporty walki, majsterkowanie, muzyka, astronomia, gimnastyka, samochody</wantedAttrs>
+<node id="6" gender="M" >
+<selfAttrs>pêdzenie bimbru, gry na instrumecie, jazda konna, filmy, gry komputerowe, góry, kraje orientu, astronomia, podró¿e, morze</selfAttrs>
+<wantedAttrs>jêzyki obce, wspinaczka, podró¿e, gimnastyka, programowanie, religia, zielarstwo, gotowanie, komiksy, spacery</wantedAttrs>
 </node>
-<node id="7">
-<gender="M" />
-<selfAttrs>manga i anime, spacery, gry komputerowe, taniec, paintball, muzyka, komiksy, filozofia, kraje orientu, biwakowanie</selfAttrs>
-<wantedAttrs>koszykÃ³wka, pÄ™dzenie bimbru, samochody, programowanie, fizyka, jazda konna, komiksy, jÄ™zyki obce, bieganie, piÅ‚ka noÅ¼na</wantedAttrs>
+<node id="7" gender="M" >
+<selfAttrs>gotowanie, samochody, astronomia, pêdzenie bimbru, koszykówka, literatura, filmy, filozofia, p³ywanie, bilard</selfAttrs>
+<wantedAttrs>rower, podró¿e, paintball, sporty walki, kraje orientu, spacery, zielarstwo, gry na instrumecie, muzyka, gotowanie</wantedAttrs>
 </node>
-<node id="8">
-<gender="M" />
-<selfAttrs>gÃ³ry, astronomia, filmy, puzzle, komiksy, uprawa roÅ›lin, zielarstwo, Å›piew, literatura, taniec</selfAttrs>
-<wantedAttrs>sporty walki, strzelnica, filmy, uprawa roÅ›lin, programowanie, religia, wspinaczka, pieczenie, rower, rysowanie</wantedAttrs>
+<node id="8" gender="M" >
+<selfAttrs>literatura, bieganie, jêzyki obce, gimnastyka, kraje orientu, uprawa roœlin, morze, filozofia, paintball, spacery</selfAttrs>
+<wantedAttrs>majsterkowanie, kraje orientu, morze, koszykówka, malowanie, astronomia, rower, podró¿e, jêzyki obce, manga i anime</wantedAttrs>
 </node>
-<node id="9">
-<gender="M" />
-<selfAttrs>sporty walki, strzelnica, puzzle, spacery, filozofia, biwakowanie, podrÃ³Å¼e, majsterkowanie, pÄ™dzenie bimbru, malowanie</selfAttrs>
-<wantedAttrs>gÃ³ry, ksiÄ…Å¼ki, bilard, zielarstwo, gry komputerowe, pÅ‚ywanie, rysowanie, tenis, wspinaczka, paintball</wantedAttrs>
+<node id="9" gender="M" >
+<selfAttrs>bieganie, zielarstwo, ksi¹¿ki, gry na instrumecie, pieczenie, strzelnica, pi³ka no¿na, biwakowanie, koszykówka, jazda konna</selfAttrs>
+<wantedAttrs>strzelnica, astronomia, góry, majsterkowanie, literatura, pieczenie, filmy, spacery, manga i anime, warcaby</wantedAttrs>
 </node>
-<node id="10">
-<gender="K" />
-<selfAttrs>majsterkowanie, fizyka, religia, koszykÃ³wka, fotografia, manga i anime, malowanie, gry komputerowe, pÄ™dzenie bimbru, pieczenie</selfAttrs>
-<wantedAttrs>ksiÄ…Å¼ki, krzyÅ¼Ã³wki, religia, kraje orientu, filmy, spacery, pÄ™dzenie bimbru, programowanie, rysowanie, malowanie</wantedAttrs>
+<node id="10" gender="K" >
+<selfAttrs>pieczenie, morze, góry, spacery, œpiew, rower, rysowanie, wspinaczka, biwakowanie, krzy¿ówki</selfAttrs>
+<wantedAttrs>fotografia, gimnastyka, biwakowanie, puzzle, podró¿e, bilard, wspinaczka, fizyka, pieczenie, malowanie</wantedAttrs>
 </node>
-<node id="11">
-<gender="K" />
-<selfAttrs>warcaby, pÄ™dzenie bimbru, pieczenie, gÃ³ry, gotowanie, jazda konna, bilard, rysowanie, puzzle, astronomia</selfAttrs>
-<wantedAttrs>rower, filozofia, rysowanie, jazda konna, samochody, fizyka, paintball, podrÃ³Å¼e, jÄ™zyki obce, bilard</wantedAttrs>
+<node id="11" gender="K" >
+<selfAttrs>religia, malowanie, filozofia, bilard, biwakowanie, góry, literatura, ksi¹¿ki, muzyka, rower</selfAttrs>
+<wantedAttrs>jêzyki obce, szachy, pêdzenie bimbru, manga i anime, gotowanie, taniec, samochody, puzzle, gimnastyka, literatura</wantedAttrs>
 </node>
-<node id="12">
-<gender="K" />
-<selfAttrs>samochody, astronomia, paintball, malowanie, rower, programowanie, sporty walki, filozofia, szachy, puzzle</selfAttrs>
-<wantedAttrs>majsterkowanie, kraje orientu, samochody, krzyÅ¼Ã³wki, fotografia, wÄ™dkarstwo, uprawa roÅ›lin, malowanie, warcaby, gotowanie</wantedAttrs>
+<node id="12" gender="K" >
+<selfAttrs>ksi¹¿ki, puzzle, wêdkarstwo, paintball, jazda konna, fotografia, uprawa roœlin, komiksy, taniec, p³ywanie</selfAttrs>
+<wantedAttrs>koszykówka, spacery, muzyka, ksi¹¿ki, jazda konna, fotografia, p³ywanie, góry, sporty walki, puzzle</wantedAttrs>
 </node>
-<node id="13">
-<gender="K" />
-<selfAttrs>rower, strzelnica, bilard, taniec, gÃ³ry, filmy, programowanie, Å›piew, gry na instrumecie, muzyka</selfAttrs>
-<wantedAttrs>samochody, warcaby, podrÃ³Å¼e, pÅ‚ywanie, filmy, paintball, wÄ™dkarstwo, koszykÃ³wka, tenis, wspinaczka</wantedAttrs>
+<node id="13" gender="K" >
+<selfAttrs>œpiew, paintball, kraje orientu, filmy, gry na instrumecie, tenis, zielarstwo, pieczenie, biwakowanie, ksi¹¿ki</selfAttrs>
+<wantedAttrs>bieganie, morze, biwakowanie, astronomia, pêdzenie bimbru, bilard, majsterkowanie, uprawa roœlin, filozofia, œpiew</wantedAttrs>
 </node>
-<node id="14">
-<gender="K" />
-<selfAttrs>malowanie, krzyÅ¼Ã³wki, taniec, rower, gÃ³ry, wspinaczka, tenis, filmy, fizyka, religia</selfAttrs>
-<wantedAttrs>programowanie, spacery, szachy, malowanie, fotografia, taniec, podrÃ³Å¼e, strzelnica, piÅ‚ka noÅ¼na, fizyka</wantedAttrs>
+<node id="14" gender="K" >
+<selfAttrs>rysowanie, gimnastyka, taniec, sporty walki, manga i anime, krzy¿ówki, fizyka, programowanie, ksi¹¿ki, pêdzenie bimbru</selfAttrs>
+<wantedAttrs>komiksy, zielarstwo, fizyka, rysowanie, pieczenie, góry, bilard, p³ywanie, manga i anime, wêdkarstwo</wantedAttrs>
 </node>
-<node id="15">
-<gender="K" />
-<selfAttrs>filozofia, warcaby, wÄ™dkarstwo, jÄ™zyki obce, gimnastyka, rysowanie, samochody, pÄ™dzenie bimbru, taniec, manga i anime</selfAttrs>
-<wantedAttrs>astronomia, pÅ‚ywanie, szachy, malowanie, samochody, podrÃ³Å¼e, biwakowanie, spacery, warcaby, bieganie</wantedAttrs>
+<node id="15" gender="K" >
+<selfAttrs>wspinaczka, podró¿e, kraje orientu, paintball, p³ywanie, jazda konna, pieczenie, morze, majsterkowanie, ksi¹¿ki</selfAttrs>
+<wantedAttrs>programowanie, sporty walki, strzelnica, wêdkarstwo, wspinaczka, majsterkowanie, p³ywanie, paintball, muzyka, komiksy</wantedAttrs>
 </node>
-<node id="16">
-<gender="K" />
-<selfAttrs>paintball, programowanie, strzelnica, ksiÄ…Å¼ki, koszykÃ³wka, gimnastyka, muzyka, gry na instrumecie, pÄ™dzenie bimbru, pÅ‚ywanie</selfAttrs>
-<wantedAttrs>jÄ™zyki obce, filmy, manga i anime, majsterkowanie, zielarstwo, pieczenie, rysowanie, astronomia, rower, warcaby</wantedAttrs>
+<node id="16" gender="K" >
+<selfAttrs>puzzle, bilard, koszykówka, filmy, tenis, wêdkarstwo, paintball, rower, literatura, samochody</selfAttrs>
+<wantedAttrs>pieczenie, paintball, góry, warcaby, koszykówka, religia, krzy¿ówki, rysowanie, gry na instrumecie, œpiew</wantedAttrs>
 </node>
-<node id="17">
-<gender="K" />
-<selfAttrs>astronomia, majsterkowanie, kraje orientu, podrÃ³Å¼e, krzyÅ¼Ã³wki, jazda konna, filozofia, fizyka, malowanie, piÅ‚ka noÅ¼na</selfAttrs>
-<wantedAttrs>piÅ‚ka noÅ¼na, literatura, biwakowanie, taniec, rysowanie, samochody, fotografia, astronomia, jÄ™zyki obce, podrÃ³Å¼e</wantedAttrs>
+<node id="17" gender="K" >
+<selfAttrs>zielarstwo, œpiew, góry, majsterkowanie, szachy, komiksy, pi³ka no¿na, programowanie, gimnastyka, podró¿e</selfAttrs>
+<wantedAttrs>manga i anime, zielarstwo, morze, religia, jêzyki obce, uprawa roœlin, filmy, fizyka, gry na instrumecie, fotografia</wantedAttrs>
 </node>
-<node id="18">
-<gender="K" />
-<selfAttrs>komiksy, manga i anime, bilard, malowanie, astronomia, rysowanie, puzzle, uprawa roÅ›lin, filozofia, pieczenie</selfAttrs>
-<wantedAttrs>rower, strzelnica, tenis, majsterkowanie, szachy, bilard, astronomia, sporty walki, fizyka, ksiÄ…Å¼ki</wantedAttrs>
+<node id="18" gender="K" >
+<selfAttrs>góry, malowanie, œpiew, rysowanie, uprawa roœlin, zielarstwo, wspinaczka, muzyka, literatura, koszykówka</selfAttrs>
+<wantedAttrs>muzyka, astronomia, gry na instrumecie, paintball, manga i anime, pêdzenie bimbru, literatura, malowanie, samochody, szachy</wantedAttrs>
 </node>
-<node id="19">
-<gender="K" />
-<selfAttrs>religia, malowanie, majsterkowanie, gotowanie, filmy, rysowanie, wÄ™dkarstwo, paintball, pieczenie, gry komputerowe</selfAttrs>
-<wantedAttrs>rysowanie, gimnastyka, religia, strzelnica, kraje orientu, pÅ‚ywanie, wspinaczka, spacery, taniec, ksiÄ…Å¼ki</wantedAttrs>
+<node id="19" gender="K" >
+<selfAttrs>tenis, majsterkowanie, morze, rower, filozofia, jazda konna, sporty walki, uprawa roœlin, jêzyki obce, paintball</selfAttrs>
+<wantedAttrs>taniec, bilard, filmy, gimnastyka, samochody, wêdkarstwo, jazda konna, uprawa roœlin, rower, podró¿e</wantedAttrs>
 </node>
+<edge id="0" from="0" to="10" weight="5" />
+<edge id="1" from="0" to="11" weight="1" />
+<edge id="2" from="0" to="12" weight="3" />
+<edge id="3" from="0" to="13" weight="6" />
+<edge id="4" from="0" to="14" weight="4" />
+<edge id="5" from="0" to="15" weight="4" />
+<edge id="6" from="0" to="16" weight="2" />
+<edge id="7" from="0" to="17" weight="5" />
+<edge id="8" from="0" to="18" weight="4" />
+<edge id="9" from="0" to="19" weight="5" />
+<edge id="10" from="1" to="10" weight="4" />
+<edge id="11" from="1" to="11" weight="5" />
+<edge id="12" from="1" to="12" weight="5" />
+<edge id="13" from="1" to="13" weight="4" />
+<edge id="14" from="1" to="14" weight="3" />
+<edge id="15" from="1" to="15" weight="5" />
+<edge id="16" from="1" to="16" weight="3" />
+<edge id="17" from="1" to="17" weight="3" />
+<edge id="18" from="1" to="18" weight="4" />
+<edge id="19" from="1" to="19" weight="3" />
+<edge id="20" from="2" to="10" weight="6" />
+<edge id="21" from="2" to="11" weight="2" />
+<edge id="22" from="2" to="12" weight="3" />
+<edge id="23" from="2" to="13" weight="2" />
+<edge id="24" from="2" to="14" weight="7" />
+<edge id="25" from="2" to="15" weight="2" />
+<edge id="26" from="2" to="16" weight="1" />
+<edge id="27" from="2" to="17" weight="10" />
+<edge id="28" from="2" to="18" weight="3" />
+<edge id="29" from="2" to="19" weight="4" />
+<edge id="30" from="3" to="10" weight="3" />
+<edge id="31" from="3" to="11" weight="4" />
+<edge id="32" from="3" to="12" weight="3" />
+<edge id="33" from="3" to="13" weight="4" />
+<edge id="34" from="3" to="14" weight="3" />
+<edge id="35" from="3" to="15" weight="5" />
+<edge id="36" from="3" to="16" weight="8" />
+<edge id="37" from="3" to="17" weight="2" />
+<edge id="38" from="3" to="18" weight="2" />
+<edge id="39" from="3" to="19" weight="6" />
+<edge id="40" from="4" to="10" weight="3" />
+<edge id="41" from="4" to="11" weight="4" />
+<edge id="42" from="4" to="12" weight="5" />
+<edge id="43" from="4" to="13" weight="2" />
+<edge id="44" from="4" to="14" weight="4" />
+<edge id="45" from="4" to="15" weight="5" />
+<edge id="46" from="4" to="16" weight="3" />
+<edge id="47" from="4" to="17" weight="6" />
+<edge id="48" from="4" to="18" weight="2" />
+<edge id="49" from="4" to="19" weight="3" />
+<edge id="50" from="5" to="10" weight="4" />
+<edge id="51" from="5" to="11" weight="5" />
+<edge id="52" from="5" to="12" weight="3" />
+<edge id="53" from="5" to="13" weight="7" />
+<edge id="54" from="5" to="14" weight="6" />
+<edge id="55" from="5" to="15" weight="1" />
+<edge id="56" from="5" to="16" weight="3" />
+<edge id="57" from="5" to="17" weight="5" />
+<edge id="58" from="5" to="18" weight="4" />
+<edge id="59" from="5" to="19" weight="7" />
+<edge id="60" from="6" to="10" weight="3" />
+<edge id="61" from="6" to="11" weight="2" />
+<edge id="62" from="6" to="12" weight="3" />
+<edge id="63" from="6" to="13" weight="4" />
+<edge id="64" from="6" to="14" weight="3" />
+<edge id="65" from="6" to="15" weight="2" />
+<edge id="66" from="6" to="16" weight="2" />
+<edge id="67" from="6" to="17" weight="8" />
+<edge id="68" from="6" to="18" weight="5" />
+<edge id="69" from="6" to="19" weight="4" />
+<edge id="70" from="7" to="10" weight="3" />
+<edge id="71" from="7" to="11" weight="6" />
+<edge id="72" from="7" to="12" weight="3" />
+<edge id="73" from="7" to="13" weight="8" />
+<edge id="74" from="7" to="14" weight="3" />
+<edge id="75" from="7" to="15" weight="4" />
+<edge id="76" from="7" to="16" weight="3" />
+<edge id="77" from="7" to="17" weight="3" />
+<edge id="78" from="7" to="18" weight="6" />
+<edge id="79" from="7" to="19" weight="6" />
+<edge id="80" from="8" to="10" weight="3" />
+<edge id="81" from="8" to="11" weight="5" />
+<edge id="82" from="8" to="12" weight="1" />
+<edge id="83" from="8" to="13" weight="5" />
+<edge id="84" from="8" to="14" weight="1" />
+<edge id="85" from="8" to="15" weight="5" />
+<edge id="86" from="8" to="16" weight="3" />
+<edge id="87" from="8" to="17" weight="5" />
+<edge id="88" from="8" to="18" weight="4" />
+<edge id="89" from="8" to="19" weight="6" />
+<edge id="90" from="9" to="10" weight="5" />
+<edge id="91" from="9" to="11" weight="2" />
+<edge id="92" from="9" to="12" weight="3" />
+<edge id="93" from="9" to="13" weight="4" />
+<edge id="94" from="9" to="14" weight="3" />
+<edge id="95" from="9" to="15" weight="3" />
+<edge id="96" from="9" to="16" weight="5" />
+<edge id="97" from="9" to="17" weight="4" />
+<edge id="98" from="9" to="18" weight="3" />
+<edge id="99" from="9" to="19" weight="2" />
+</graph>
+</gxl>
